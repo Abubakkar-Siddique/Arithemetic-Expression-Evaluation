@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ExpEval.cpp
+d:\semester 4\dsa\c++\project1\project1\expeval.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\semester 4\dsa\c++\project1\project1\expeval.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\semester 4\dsa\c++\project1\project1\expeval.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Semester 4\DSA\C++\Project1\Debug\Expression Evaluation.exe
